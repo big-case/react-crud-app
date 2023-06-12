@@ -9,7 +9,7 @@ function CreateList(props) {
         data-toggle="modal"
         data-target="#myModal"
       >
-        Create New List
+        Create New Entry
       </button>
       <div
         className="modal fade"
